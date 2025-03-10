@@ -31,5 +31,8 @@ int main() {
     // cout << x << " " << y;
     printf("%d %d\n",x,y);
 
+
+
+
     return 0;
 }
